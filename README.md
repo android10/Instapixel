@@ -25,8 +25,9 @@ TODO
 Refer to the issues section: https://github.com/android10/Instapixel/issues
  
 ## Code style
-Here you can download and install the codestyles used in this project.
-TODO
+**Scala:** https://scalameta.org/scalafmt/docs/installation.html
+
+**Kotlin:** https://github.com/android10/java-code-styles
 
 ## License
 
